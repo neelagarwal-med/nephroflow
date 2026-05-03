@@ -1,0 +1,16 @@
+# Streamlit Secrets (CRITICAL)
+.streamlit/
+
+# Python Cache and Logs
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Virtual Environments (If you use them later)
+venv/
+env/
+.venv/
+
+# Mac OS System Files
+.DS_Store
